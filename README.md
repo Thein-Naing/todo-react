@@ -1,3 +1,7 @@
+### Notes.
+This is React JS Crash Coursefrom Traveresy Media youtube channel.This is the frontend 
+part and I will upload backend part soon.you can check final site here: https://react-exercises-todo.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
