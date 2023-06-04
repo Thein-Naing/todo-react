@@ -15,7 +15,7 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid rgb(120, 165, 203);
   padding: 30px;
   border-radius: 5px;
 }
@@ -29,8 +29,8 @@ body {
 
 .btn {
   display: inline-block;
-  background: #707b88;
-  color: #fff;
+  background: #9eb0b1;
+  color: #ffff;
   border: none;
   padding: 10px 20px;
   margin: 5px;
